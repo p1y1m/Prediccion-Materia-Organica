@@ -1,4 +1,4 @@
-**Done by:** Pedro Yáñez Meléndez
+**Done by:** Pedro Yanez Melendez
 
 **Project name:** Neutral Farming OM API
 
